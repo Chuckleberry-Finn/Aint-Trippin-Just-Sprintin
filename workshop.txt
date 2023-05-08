@@ -1,4 +1,5 @@
 version=1
+id=2973043640
 title=Ain't Trippin' Just Sprintin'
 description=[h1] Ain't Trippin' Just Sprintin' Finn by Chuckleberry Finn [/h1]
 description=Sprinting zombies no longer trip.
@@ -22,5 +23,5 @@ description=
 description=[h1]Click the banners[/h1]
 description=[url=https://steamcommunity.com/id/glytch3r/myworkshopfiles/?section=collections&appid=108600]
 description=[img]https://raw.githubusercontent.com/Glytch3r/TeamOrbitAds/main/workshop.png[/img][/url]
-tags=Build 41;Misc
-visibility=unlisted
+tags=Build 41;Hardmode;Misc
+visibility=public
